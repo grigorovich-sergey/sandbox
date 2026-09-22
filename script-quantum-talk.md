@@ -12,7 +12,7 @@ First of all, when people hear “quantum computing,” they are often offered o
 ***
 The first is extremely sceptical: quantum computing is mostly hype, the machines barely work, useful applications are hypothetical, and the whole field is a bubble.
 ***
-The second is almost the opposite: quantum computers are the next AI, they are transforming medicine, finance, logistics and gaming - and this revolution is already here or just around the corner, with job market waiting for applicants.
+The second is almost the opposite: quantum computers are the next AI, they are transforming medicine, finance, logistics and gaming - and this revolution is already here, with job market waiting for applicants.
 
 None of these statements is true.
 
@@ -20,43 +20,43 @@ None of these statements is true.
 
 Quantum computing is real.
 ***
-We can build increasingly capable quantum processors. Error correction is improving. Experiments that were unrealistic a decade ago are routine research today.
+We can build better and better quantum processors. Error correction is improving.
 ***
 But there is an important difference between **a technology being real** and **a technology being ready to solve economically useful problems**.
 
-Quantum processors have demonstrated calculations that are extremely difficult to reproduce classically. 
+Quantum processors have demonstrated calculations that are extremely difficult for classicall systems. 
 ***
-But these have largely been benchmark designed to be progress milestones. 
+But these have mostly been benchmark designed to be progress milestones. 
 
-We still do not have an established case of a quantum computer providing useful real-world computational advantage over the best existing classical alternative.
+We still do not have an established case of a quantum computer providing useful real-world advantage over the existing classical alternative.
 
 ## [Slide change 13]
 
-But there is a gap between working technology, and technology that brings utility
+There is a huge gap between working technology, and technology that brings utility
 *** 
-We are not asking, “Can we build quantum computers?”. 
+We are not asking anymore, “Can we build quantum computers?”
 ***
-We should ask: where does quantum advantage actually exist, and when can we connect it to something people genuinely need?
+We should ask: "Where does quantum advantage actually exist, and when can we connect it to something people genuinely need?"
 ***
 So I would start from this position:
 
-**Quantum computing is neither a miracle nor a mirage. It is a real technology somewhere on this chart, and useful applications are still largely a research question.**
+**Quantum computing is neither a miracle nor a mirage. It is an emerging technology somewhere on this chart, and its useful applications are still largely a research question.**
 
-And that view explains everything else - the industry, the job market, and the very uneven prospects of different quantum applications.
+And that view explains everything else - the industry, the job market, and uneven prospects of different quantum applications.
 
 ## [Slide change 14]
 
 We have seen this situation before in other technologies.
 
-You have likely heard about the fusion power.
+You have likely heard about the fusion power - the next big hope for energy abundance.
 ***
-Fusion is unquestionably real physics. Enormous machines have been constructed, private companies have raised billions of dollars, and the field already employs thousands working on plasma physics, superconducting magnets, materials and reactor engineering.
+Fusion is real physics. Enormous machines have been constructed, private companies have raised billions of dollars, and thousands employees work on plasma physics, superconducting magnets, materials and reactor engineering.
 
-But notice what most of those people are employed to do.
+But notice what most of those people are doing.
 
 They are trying to **make fusion power possible**.
 
-There is not yet an established global fleet of commercial fusion power stations where people have routine careers maintaining plants, buying fuel, optimizing electricity production, replacing aging components or regulating an established industrial technology.
+There is not yet an established global fleet of commercial fusion power stations where people have routine careers maintaining plants, buying fuel, optimizing electricity production, replacing components or managing the personnel.
 
 ## [Slide change 19]
 
@@ -64,7 +64,7 @@ Now compare that with good old nuclear fission power.
 
 There are hundreds of operating nuclear reactors around the world, employing more than a million of specialists. 
 ***
-There is a mature employment ecosystem: plant operators, safety engineers, maintenance specialists, fuel-cycle experts, regulators, construction companies, suppliers, radiation specialists, consultants and managers.
+There is a mature employment ecosystem: plant operators, safety engineers, maintenance specialists, regulators, construction workers, suppliers, consultants and managers.
 
 In fusion, the dominant professional question is still:
 
@@ -80,23 +80,21 @@ There is no such thing as fusion power plant operator, because there is no fusio
 
 This analogy explains a lot about quantum computing industry, which today looks much more like **fusion than fission**.
 
-There are hardware companies, software companies, major technology corporations, national laboratories and startups. People have genuine industry careers in quantum computing.
+There are hardware companies, software companies, major technology corporations, national laboratories and startups. People have careers in quantum computing.
 
 But we should look carefully at what they are actually doing.
 ***
 A large part of the work is still quantum-facing: building better processors, designing control electronics, improving fabrication, developing error correction, designing quantum algorithms, benchmarking quantum against classical methods, and estimating the resources future fault-tolerant machines would require.
 
-The labour-market data gives us a particularly clear picture of this.
+So even outside of academia, at IBM, Google, Quantinuum, much of the work still include **frontier research and engineering**.
 
-So even when the employer is IBM, Google, Quantinuum, a startup, rather than a university, much of the work still include **frontier research and engineering**.
-
-Yes, we do have small groups studying finance, pharmaceuticals, logistics and other applications. But these groups are trying to discover whether quantum computing can eventually provide useful advantage in future - not operating established quantum solutions.
+Yes, we do have small groups studying finance, pharmaceuticals, logistics and other applications. But these groups are trying to discover whether quantum computing can eventually provide useful advantage in future - they not operating established quantum solutions.
 
 That distinction matters if somebody is considering quantum as a career.
 ***
 Today, entering quantum computing usually means entering the business of **building and improving the new technology itself**.
 
-And this naturally favours people with strong foundations in physics, electrical engineering, mathematics, computer science, chemistry and related research disciplines.
+And this naturally favours people with strong foundations in physics, electrical engineering, mathematics, and computer science.
 
 ## [Slide change 21]
 
@@ -106,9 +104,9 @@ People often ask:
 
 Five years? Ten years? Twenty?
 
-I think this is almost the wrong question.
+I think this is the wrong question.
 ***
-There is probably no single moment when “quantum computing arrives,” because the different proposed applications are radically different.
+There is probably no single moment when “quantum computing arrives,” because the different applications are on different stages of maturity.
 
 The better question is:
 
@@ -126,9 +124,9 @@ They are all worth going into if you are ready to work on the frontier and advan
 
 ## [Slide change 23]
 
-Quantum simulation has a particularly natural motivation. Molecules and materials are quantum systems themselves. 
+Quantum simulation has a natural motivation. Molecules and materials are quantum systems themselves. 
 
-Classical computers can simulate many of them  well, but the cost can grow dramatically as the systems grow and become complex.
+Classical computers can simulate many of them  well, but the cost can grow dramatically as the systems become complex.
 
 Future applications are already on the horizon:
 
@@ -149,13 +147,13 @@ If useful quantum advantage has not yet been demonstrated, then why are major co
 ***
 Because waiting until the technology is mature may be too late to begin learning about it.
 
-A pharmaceutical or materials company does not necessarily need to believe that quantum computing will improve its products next year. It only needs to believe that it is too risky to be unprepared when the technology arrives.
+A pharmaceutical company does not need to believe that quantum computing will improve its products next year. It only needs to believe that it is too risky to be unprepared when the technology arrives.
 
 ## [Slide change 25]
 
 Pharmaceutical giant Moderna provides a good example.
 
-There is a classically hard computational problem: 3d structure of organic molecules folding, proteins, DNA, RNA.
+There is a classically hard computational problem: 3d structure of organic molecules folding, such as proteins, DNA, RNA.
 
 Together with IBM researchers, Moderna has investigated quantum and hybrid approaches to mRNA folding prediction on actual quantum hardware.
 
@@ -165,7 +163,7 @@ Every year they are publishing studies that explore this direction. It was explo
 
 They utilize the community resources too: Moderna supports industry challenges, that invited people to
 ***
-investigate quantum, quantum-inspired, hybrid and classical approaches to the same type of optimization problem-and explicitly compare them with classical benchmarks.
+investigate quantum, quantum-inspired, and hybrid approaches to the same type of optimization problem - and compare them against classical benchmarks.
 ***
 That is what serious engagement with an immature technology can look like: they want to understand the current state, benchmark algorithms, build expertise and be ready for the day of quantum utility.
 ***
@@ -177,13 +175,13 @@ So, for large organizations, quantum matters **before quantum advantage** simply
 
 Now compare this with quantum machine learning.
 
-There are fascinating theoretical ideas in QML, and we should not declare that quantum machine learning can never work.
+There are great theoretical ideas in QML, and we should not say that quantum machine learning can never work.
 
-But its near-term situation is much less favourable.
+But its near-term situation is less favourable.
 
 One reason is something that discussions of QML sometimes underestimate:
 ***
-**its classical competitor is strong and stil growing.**
+**its classical competitor is strong and still growing.**
 
 Modern machine learning has accumulated decades of algorithmic development.
 
@@ -193,15 +191,15 @@ It is still improving rapidly.
 ***
 A recent systematic review looked specifically at studies comparing quantum machine-learning approaches against serious classical baselines. 
 
-The picture is currently sobering: quantum approaches generally reach parity at best in specifically designed tasks and remain inferior once resources and fair comparisons are taken into account. 
+The picture is quite sobering: quantum approaches generally reach parity at best in specifically designed tasks and remain inferior once resources and fair comparisons are taken into account. 
 
 ## [Slide change 28]
 
-One way to remember the difference is:
+One way to remember the difference:
 
-**Quantum chemistry is searching for a way through computational walls. Quantum machine learning is trying to overtake one of the fastest-moving technologies**
+**Quantum chemistry is searching for a way through computational walls. Quantum machine learning is trying to overtake one of the fastest-moving technologies ever**
 
-So QML is not trying to cross a computational barrier while the classical alternative waits patiently on the other side.
+So QML is not trying to cross a computational barrier while the classical alternative waits.
 
 It is trying to **catch a competitor that is sprinting forward**.
 
@@ -217,7 +215,7 @@ Today and in near future, QML specialist is a pioneer and algorithms explorer in
 
 ## [Slide change 29]
 
-This brings the story back to a very practical question: should somebody study quantum for a career?
+This brings the story back to a practical question: should somebody study quantum for a career?
 
 I think the answer can absolutely be yes - but with the correct expectations.
 
@@ -239,14 +237,14 @@ If you are not ready for a head-forward dive or your interests lie elsewhere, th
 
 Become a chemist who understands quantum simulation.
 
-A computer scientist working on algorithms.
+A computer scientist working on quantum algorithms.
 
 A mathematician working on complexity.
 
 Then quantum becomes a powerful specialization built on top of a deep discipline. 
 
 So, even if the quantum advantage is late for the party, you have your classical job. And when it comes to utility stage, you are already ahead of the majority of your collegues.
-
+***
 It make even more sense because quantum computers will not work by themselves in isolation: everything that can be done classically - will be done classically.
 
 The real place for the future quantum computer is inside the classical cluster, as dedicated subsystem of the hybrid machine. So, you will need a deep classical domain knowledge anyways.
@@ -257,21 +255,21 @@ There is another possibility - professional quantum awareness.
 
 **Quantum may matter to your profession even if it never becomes your profession.**
 
-Cryptography is perhaps the clearest example.
+Cryptography is perhaps the best example.
 
-Post-quantum cryptography is already being deployed because organizations have to prepare for the future possibility of cryptographically relevant quantum computers. The algorithms themselves still run on ordinary classical machines.
+Post-quantum cryptography is already being deployed because organizations have to prepare for the future threats of cryptographically relevant quantum computers. The algorithms still run on classical machines.
 
-Quantum computers haven't broken any encryption yet, but the government and business are already preparing for the future threats. The exisitng encryption algorithms are suceptable for quantum decryption, so we need to change them today in advance.
+Quantum computers haven't broken any encryption yet, but the government and business are already preparing for the future. The exisitng encryption algorithms are suceptable for quantum decryption, so we need to change them today in advance.
 
 PQC transition is already happening
-- NIST finalized its first principal post-quantum cryptography standards in 2024, urging organizations to **begin migration now**.
-- Current transition planning calls for quantum-vulnerable algorithms to be removed from standards by **2035**, with high-risk systems transitioning earlier.
+- NIST finalized its first post-quantum cryptography standards, urging organizations to **begin migration now**.
+- Current transition planning calls for quantum-vulnerable algorithms to be removed by **2035**, with high-risk systems transitioning earlier.
 
-So quantum computing is already influencing cybersecurity careers without cybersecurity professionals needing to sit in front of a quantum processor.
+So quantum computing is already influencing cybersecurity careers without cybersecurity professionals needing to ever touch a quantum processor.
 
 If you are going into cybersecurity field, you will need to stay deeply informed about quantum progress.
 
-Even in other domains: biology, physics, neuroscience - we already see a wave of papers and proposals where "quantum-based" and “quantum-inspired” language is doing more work than the actual technology. We need at least some quantum expertise to see through this fog.
+Even in other domains: biology, physics, neuroscience - we already see a wave of papers and proposals with "quantum-based" and “quantum-inspired” buzzwords. The language is doing more work than the actual technology. We need at least some quantum expertise to see through this fog.
 
 ## [Slide change 36]
 
@@ -335,4 +333,4 @@ I would say:
 
 **Understand the bet.**
 
-Understand what quantum computers can do, what they cannot yet do, where genuine advantage might appear, and what evidence would convince you that it has.
+Understand what quantum computers can do, what they cannot.
