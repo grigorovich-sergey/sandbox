@@ -53,7 +53,7 @@ Relaxed used **37 percent fewer quadratic interactions** than strict and
 ***
 reduced mean circuit depth by **21 percent**.
 ***
-But sampled-oracle quality stayed similar: energy gap was **0.44 versus 0.47**, and F1 was **0.8 versus 0.81**.
+And despite the lower circuit cost, the sampled-oracle quality metrics remained essentially unchanged.
 ***
 So encoding crossing penalties in quantum circuit added quantum cost without improving the best repaired candidates that were sampled.
 
@@ -62,8 +62,6 @@ So encoding crossing penalties in quantum circuit added quantum cost without imp
 ## Slide 5 — Good Candidates Are Easier to Find Than to Select
 
 However, sampled-oracle quality is only an upper bound.
-
-Reference-independent selection is much harder.
 ***
 Repaired MAP improved over objective-first for strict and relaxed, showing useful probability mass across repaired structures.
 ***
@@ -95,8 +93,10 @@ Since submission, I checked this with **Turner-2004 stacking energies**. I keeps
 
 The result appears robust: relaxed candidates quality still stays close to strict while keeping about **20 percent lower circuit depth**. Postprocessed still remains much weaker.
 
-So result is is not only about one RNA model. It points to a broader hybrid-design principle: **quantum resources should be reserved for the parts of the problem where they add value, while rest of the work remains classical.**
+This suggests the result is not simply an artifact of the original stem-length reward. 
 ***
-It highlights the key design questions for present and future systems: **not how many constraints we can encode, but which constraints are worth paying quantum resources for.**
+It points to a broader hybrid-design principle: **quantum resources should be reserved for the parts of the problem where they add value, and rest of the work remains classical.**
+
+So, the key design questions for present and future systems is **not how many constraints we can encode, but which constraints are worth paying quantum resources for.**
 
 Thank you.
