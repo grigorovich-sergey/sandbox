@@ -35,7 +35,7 @@ Everything else is held constant, so the main variable is where conflicts are re
 
 Starting from semi-synthetic sequnces of given lenghts, I established same workflow for all lenghts and formulations.
 
-I completed **more than a thousand successful variant-runs**: 600 Aer simulations and **500 hardware runs**.
+I completed **more than a thousand successful variant-runs**: 630 Aer simulations and **540 hardware runs**.
 
 Hardware experiments reached **44-nucleotide sequences** and **143 qubits** on IBM Heron Quebec System One.
 
@@ -77,7 +77,7 @@ Compared to other encodings, postprocessed kept the circuit cheap.
 
 But it required more repair and produced much weaker sampled candidates.
 
-So the two extremes have costs: strict is quantum expensive, while postprocessed removes too much useful structure.
+So the two extremes have their costs: strict is quantum expensive, while postprocessed removes too much useful structure.
 ***
 Relaxed encoding gave the best balance in my experiment.
 
@@ -89,7 +89,7 @@ So, on simplified model, relaxed gave the best observed balance between circuit 
 
 One future direction was to test whether this conclusion survives a richer energy model.
 ***
-Since submission, I checked this with **Turner-2004 stacking energies**. I keeps the same candidate stems, constraints, repair procedure, and quantum parameters.
+Since submission, I checked this with **Turner-2004 stacking energies model**. I keeps the same candidate stems, constraints, repair procedure, and quantum parameters.
 
 The result appears robust: relaxed candidates quality still stays close to strict while keeping about **20 percent lower circuit depth**. Postprocessed still remains much weaker.
 
