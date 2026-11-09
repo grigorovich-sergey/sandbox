@@ -309,6 +309,84 @@ It can help us as scientists and engineers, but also as managers, customers, edu
 
 ## [Slide change 37]
 
+There are several ways to program quantum computers. So why Qiskit?
+
+I think the answer begins with a decision IBM made ten years ago.
+
+In 2016, IBM put a five-qubit superconducting quantum processor on the cloud.
+
+It wasn't powerful enough to solve useful commercial problems. But someone who didn't own a dilution refrigerator, or work in a quantum-hardware laboratory, could now run experiments on a real quantum computer.
+
+**Seven thousand people signed up in the first week.**
+
+And hardware access was only half the story.
+
+In 2017, IBM released Qiskit — an open-source, Python-based toolkit for building quantum circuits, simulating them, and running experiments on real devices.
+
+This combination made quantum experimentation accessible to a much broader community, without requiring everyone to become hardware specialists.
+
+But did this democratization actually translate into research outside IBM?
+
+## [Slide change 38]
+
+A 2024 study in *Nature Reviews Physics* examined 768 research preprints from 2016 to 2022 that actually used real quantum hardware, rather than just simulations.
+
+And as you can see, IBM systems became overwhelmingly dominant in these publications.
+
+The widespread access translated into populatiry among researchers and enthusiasts.
+
+## [Slide change 39]
+
+This trend is supporded by user survey data from more recent years. The IBM Quantum platform remains a stable leader among hardware users, occupying roughly two thirds of the market.
+
+But **the next graph is even more interesting.**
+
+## [Slide change 40]
+
+Here, the researchers separated papers with authors affiliated with the hardware vendors from those without any vendor-affiliated authors.
+***
+For IBM, the overwhelming majority had no vendor-affiliated coauthors.
+
+Other providers also supported external research, but their publication volumes were much smaller, and vendor involvement was proportionally more common.
+
+**Research using IBM quantum computers was no longer confined to the people building those computers.**
+
+And I think this is one of the most significant achievements of IBM's approach over the last decade.
+
+It created an environment where researchers could test algorithms, investigate limitations, publish results, and develop software without having to build a quantum computer themselves.
+
+And this brings us back to Qiskit.
+
+## [Slide change 41]
+
+Over time, it became much more than just a way to send instructions to IBM's machines. An entire ecosystem grew around it — libraries, courses, documentation, tutorials, and a large community.
+
+By 2024, IBM reported that more than 700 universities had developed courses using Qiskit.
+
+And according to the Unitary Foundation's 2025 open-source survey, **69% of respondents** to its software-platform question had used Qiskit in the previous year.
+
+And this is why I like comparing Qiskit to Python.
+
+Python isn't the only programming language, and it isn't the best choice for every problem. But its accessibility, documentation, and enormous community make it a natural place to start.
+
+**I think Qiskit occupies a similar position in quantum computing.**
+
+It's certainly not the only option. But especially for someone entering the field from software, mathematics, chemistry, or another background, it's one of the best-supported starting points.
+
+And that's part of why someone like me can enter this field from somewhere else entirely.
+
+## [Slide change 42]
+
+Where can one study? A great place to start is Qiskit Fall Fest itself — an opportunity to get your first glimpse of quantum programming and meet the community.
+***
+To continue learning, IBM Quantum Learning offers structured courses and hands-on tutorials, from beginner to intermediate levels.
+***
+The Qiskit Advocate Program provides opportunities to connect with the community, exchange resources, and hear about upcoming initiatives. 
+***
+Beyond IBM, learning ecosystems like WISER and QWorld offer additional ways to study, collaborate, and get involved in quantum computing.
+
+## [Slide change 43]
+
 So my conclusion is deliberately somewhere between optimism and scepticism.
 ***
 Quantum computing is real.
